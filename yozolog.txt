@@ -1,0 +1,136 @@
+
+ Exception:2021.01.29 08:24:02
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:224)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.01.29 08:24:02
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:224)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.01.29 08:24:02
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:224)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.01.29 08:24:02
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:224)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.01.29 08:24:02
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:224)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.01.29 08:24:02
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:224)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.04.06 22:52:51
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:239)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.04.06 22:52:51
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.d.h.b(Unknown Source:756)
+	at emo.f.c.d.h.a(Unknown Source:369)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:239)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.04.06 22:52:52
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.d.h.b(Unknown Source:756)
+	at emo.f.c.d.h.a(Unknown Source:369)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:239)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
+
+ Exception:2021.04.06 22:52:52
+java.lang.NullPointerException: Attempt to invoke virtual method 'void emo.image.Picture.setCropTop(float)' on a null object reference
+	at emo.f.c.d.h.b(Unknown Source:837)
+	at emo.f.c.d.h.a(Unknown Source:401)
+	at emo.f.c.d.h.a(Unknown Source:6)
+	at emo.f.c.c.c.a(Unknown Source:282)
+	at emo.f.c.c.c.a(Unknown Source:314)
+	at emo.f.c.c.c.a(Unknown Source:36)
+	at emo.main.FileReaderHandler$ReadFileHandlerCallback.handleMessage(Unknown Source:1443)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:239)
+	at emo.main.ThreadWorker$1.run(Unknown Source:56)
